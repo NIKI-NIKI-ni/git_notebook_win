@@ -1,0 +1,7 @@
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.cache
+
